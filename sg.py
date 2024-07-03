@@ -1,3 +1,8 @@
+'''
+This is not the final code. 
+It is just for reference
+'''
+
 # Import libraries
 import os
 import cv2
